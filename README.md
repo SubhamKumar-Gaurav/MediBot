@@ -5,6 +5,7 @@ Access the Chatbot here: https://medibot-subhamkumar-h.streamlit.app/
 <img src="https://github.com/SubhamKumar-Gaurav/MediBot/blob/main/images/Heart_attack.png">
 
 <img src="https://github.com/SubhamKumar-Gaurav/MediBot/blob/main/images/Ronaldo.png">
+
 A **Medical Question Answering System** that utilizes **Mistral-7B** with **FAISS vector search** for retrieving relevant medical information from "The Gale Encyclopedia of Medicine Second Edition." The system is deployed using **Streamlit** for an interactive user experience. 
 
 
