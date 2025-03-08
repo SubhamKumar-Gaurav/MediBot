@@ -1,5 +1,5 @@
 ﻿# MediBot - Medical ChatBot
-
+![Sample images](MediBot/Screenshot (879).png)
 A **Medical Question Answering System** that utilizes **Mistral-7B** with **FAISS vector search** for retrieving relevant medical information from "The Gale Encyclopedia of Medicine Second Edition." The system is deployed using **Streamlit** for an interactive user experience. 
 Access the Chatbot here: https://medibot-subhamkumar-h.streamlit.app/
 
